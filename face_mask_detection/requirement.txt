@@ -1,3 +1,0 @@
-streamlit
-python libraries
-some images or videos
