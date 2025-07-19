@@ -59,9 +59,13 @@ Edit
 Install required libraries:
 
 bash
+
 Copy
+
 Edit
+
 pip install streamlit mysql-connector-python pandas
+
 Ensure MySQL is running, and the employee database is set up with required tables:
 
 users, admins, employees, department, leave_request, attendance, employee_jobinfo, shifts
@@ -69,17 +73,25 @@ users, admins, employees, department, leave_request, attendance, employee_jobinf
 Run the Streamlit app:
 
 bash
+
 Copy
+
 Edit
+
 streamlit run main.py
+
 Optional CLI login test (not connected to the web UI):
 
 bash
+
 Copy
+
 Edit
+
 python backend.py
 
 🧪 Demo Highlights
+
 🎯 Simple sidebar-based navigation for Home, Employee, and Admin sections.
 
 📊 Use of Streamlit DataFrames for real-time data visualization.
