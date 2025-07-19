@@ -46,7 +46,9 @@ Copy
 Edit
 .
 ├── main.py         # Streamlit-based Web App
+
 ├── backend.py      # CLI login system (for testing)
+
 └── image2.jpg      # Background image (used in UI)
 
 💡 How to Run
