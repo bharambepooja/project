@@ -42,7 +42,9 @@ Libraries	streamlit, pandas, mysql-connector-python, datetime, base64
 📁 Project Structure
 
 bash
+
 Copy
+
 Edit
 .
 ├── main.py         # Streamlit-based Web App
